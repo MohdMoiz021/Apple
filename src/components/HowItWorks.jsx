@@ -171,10 +171,6 @@ const HowItWorks = () => {
                         className="bg-transparent relative z-10"
                       />
                     </div></div></div>
-
-
-                   
-
     </section>
   )
 }
